@@ -46,7 +46,6 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
               Le penne est servi avec la sauce marinara. Le sauce a du parmesan, des ail, et des tomates d'Italie! Le plat est garni de basilic. 
             </p>
           </div>
