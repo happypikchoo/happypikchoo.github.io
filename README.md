@@ -22,7 +22,7 @@
               <span class="menu-item-price">$11</span>
             </h3>
             <p class="menu-item-description">
-             Le Rigatoni est servi avec le pesto rouge. La pesto a des noix, fromages, ails, tomates et épices. Le plat est garni de sel truffe.
+             Le rigatoni est servi avec le pesto rouge. La pesto a des noix, fromages, ails, tomates et épices. Le plat est garni de sel truffe.
             </p>
           </div>
         </div>
@@ -34,7 +34,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-             Le Linguini est servi avec des crevettes et la sauce au beurre. Le plat est garni de persil.
+             Le linguini est servi avec des crevettes et la sauce au beurre. Le plat est garni de persil.
             </p>
           </div>
         </div>
@@ -84,8 +84,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+              Le gnocchi est servi avec le beurre noisette. La variété des herbes rend ce plat très deliceux. La plat est garni de ail frit.
             </p>
           </div>
 
