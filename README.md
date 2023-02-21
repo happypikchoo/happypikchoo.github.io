@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
 <head>
@@ -147,5 +146,3 @@
   </div>
 </body>
 
-</html>
-</html>
