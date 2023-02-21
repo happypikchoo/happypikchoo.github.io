@@ -8,6 +8,11 @@
 </head>
 
 <body>
+    width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
   <div class="container">
     <div class="menu">
       <h2 class="menu-group-heading">
