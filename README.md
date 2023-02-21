@@ -19,7 +19,7 @@
       </h2>
       <div class="menu-group">
         <div class="menu-item">
-          <img class="menu-item-image" src="images/rigatoni.png" alt="Rigatoni">
+          <img class="menu-item-image" src="rigatoni.png" alt="Rigatoni">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Rigatoni</span>
@@ -31,7 +31,7 @@
           </div>
         </div>
         <div class="menu-item">
-          <img class="menu-item-image" src="images/linguini.png" alt="Bruschetta">
+          <img class="menu-item-image" src="linguini.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Linguini</span>
@@ -44,7 +44,7 @@
           </div>
         </div>
                   <div class="menu-item">
-          <img class="menu-item-image" src="images/penne.png" alt="Bruschetta">
+          <img class="menu-item-image" src="penne.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Penne</span>
@@ -57,7 +57,7 @@
           </div>
         </div>
         <div class="menu-item">
-          <img class="menu-item-image" src="images/spaghetti.png" alt="Bruschetta">
+          <img class="menu-item-image" src="spaghetti.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Spaghetti</span>
@@ -71,7 +71,7 @@
 
         </div>
                 <div class="menu-item">
-          <img class="menu-item-image" src="images/tomato.png" alt="Bruschetta">
+          <img class="menu-item-image" src="tomato.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Ravioli</span>
@@ -85,7 +85,7 @@
 
         </div>
                 <div class="menu-item">
-          <img class="menu-item-image" src="images/gnocchi.png" alt="Bruschetta">
+          <img class="menu-item-image" src="gnocchi.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Gnocchi</span>
@@ -105,7 +105,7 @@
       </h2>
       <div class="menu-group">
         <div class="menu-item">
-          <img class="menu-item-image" src="images/homard.png" alt="Bruschetta">
+          <img class="menu-item-image" src="homard.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Homard</span>
@@ -119,7 +119,7 @@
         </div>
 
         <div class="menu-item">
-          <img class="menu-item-image" src="images/truffe.png" alt="Bruschetta">
+          <img class="menu-item-image" src="truffe.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Truffes</span>
@@ -132,7 +132,7 @@
           </div>
         </div>
         <div class="menu-item">
-          <img class="menu-item-image" src="images/foie.png" alt="Bruschetta">
+          <img class="menu-item-image" src="foie.png" alt="Bruschetta">
           <div class="menu-item-text">
             <h3 class="menu-item-heading">
               <span class="menu-item-name">Foie Gras</span>
