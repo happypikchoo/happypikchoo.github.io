@@ -34,8 +34,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+             Le Linguini est servi avec des crevettes et la sauce au beurre. Le plat est garni de persil.
             </p>
           </div>
         </div>
@@ -48,7 +47,7 @@
             </h3>
             <p class="menu-item-description">
               Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+              Le penne est servi avec la sauce marinara. Le sauce a du parmesan, des ail, et des tomates d'Italie! Le plat est garni de basilic. 
             </p>
           </div>
         </div>
@@ -60,8 +59,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+            Le spaghetti est servi avec les boulette de viande et la sauce au marinara. Le sauce a des ail, et des tomates d'Italie! Le plat              est garni de basilic et de parmesan. 
             </p>
           </div>
 
@@ -74,8 +72,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+              Le ravioli est servi avec la sauce marinara crémeuse
             </p>
           </div>
 
