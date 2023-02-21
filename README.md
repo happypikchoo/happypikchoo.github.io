@@ -22,7 +22,7 @@
               <span class="menu-item-price">$11</span>
             </h3>
             <p class="menu-item-description">
-             Le Rigatoni est servi dans le pesto rouge. La sauce riche a des noix, fromages et ails.
+             Le Rigatoni est servi avec le pesto rouge. La pesto a des noix, fromages, ails, tomates et épices. Le plat est garni de sel truffe.
             </p>
           </div>
         </div>
@@ -108,8 +108,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+          Homard au beurre noisette avec vos pâtes. Extrêmement riche, gras et savoreux!
             </p>
           </div>
         </div>
@@ -122,8 +121,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+              Les truffes d'hiver rappées sur vos pâtes.
             </p>
           </div>
         </div>
@@ -135,8 +133,7 @@
               <span class="menu-item-price">$12.90</span>
             </h3>
             <p class="menu-item-description">
-              Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
-              congue eu mauris nec, pretium tincidunt nulla.
+           Foie Gras tranché et grillé sur vos pâtes.
             </p>
           </div>
         </div>
